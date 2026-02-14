@@ -107,6 +107,6 @@ dart run Projects/Student_Management_System.dart
 
 ⭐ *If you're also learning Flutter, feel free to explore and get inspired!*
 
-Made with ❤️ and a lot of `print()` statements
+Made with ❤️, Coffee ☕ and a lot of `print()` statements
 
 </div>
